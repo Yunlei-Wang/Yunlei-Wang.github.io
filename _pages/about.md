@@ -26,18 +26,26 @@ I am a third year doctoral student at Institut de Mathématiques de Bordeaux in 
 
 
 
-<div class="font-weight-bold" style="font-size:1.5vw">
-                Research Interests
-</div>
+<h2 style="color: inherit" class="font-weight-bold">
+  Research Interests
+</h2>
  My primary research focus the analysis of partial differential equations. In particular, I study spectral inequalities for Schrödinger operators, non-harmonic trigonometric polynomials, and their applications to control theory for heat equations and the observability of dispersive equations. 
  
  I also have strong interests in microlocal and semiclassical analysis.
 
 <hr/>
-<div class="font-weight-bold" style="font-size:1.5vw">
-                Publications and preprints
+<h2 style="color: inherit" class="font-weight-bold">
+  Publications & Preprints
+</h2>
+<style>ol.bibliography li { list-style: number }</style>
+<div class="publications">
+              {% bibliography %}
 </div>
 
-<style>ol.bibliography li { list-style: number }</style>
-<div style="margin-left: -25px">{% bibliography %}</div>
+<h2 style="color: inherit" class="font-weight-bold">
+  Talks
+</h2>
+<div>
+To be finisehd ...
+</div>
 
