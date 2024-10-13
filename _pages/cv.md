@@ -7,4 +7,4 @@ nav_order: 5
 cv_pdf: example_pdf.pdf
 description: 
 ---
-Download here.
+Download <a href="/assets/pdf/CV.pdf">here</a>.

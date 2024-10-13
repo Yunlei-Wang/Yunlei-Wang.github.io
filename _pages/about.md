@@ -42,10 +42,5 @@ I am a third year doctoral student at Institut de Mathématiques de Bordeaux in 
               {% bibliography %}
 </div>
 
-<h2 style="color: inherit" class="font-weight-bold">
-  Talks
-</h2>
-<div>
-To be finisehd ...
-</div>
+
 
