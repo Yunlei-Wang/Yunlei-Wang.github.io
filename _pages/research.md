@@ -11,37 +11,42 @@ nav_order: 2
 
 <!-- Bibsearch Feature -->
 
-<h2 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="font-weight-bold">
   Publications & Preprints
-</h2>
+</h3>
 <div class="publications">
 
-<style>ol.bibliography li { list-style: number }</style>
+
 
 {% bibliography %}
 
 </div>
 
 
-<h2 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="font-weight-bold">
   Talks
-</h2>
-<div>
-        <li>Quantitative 2D propagation of smallness and spectral estimates for Schrödinger operators, Second Analysis Mathematica Conference, Budapest, 29 July-02 August, 2024. </li>
-        <li> Spectral inequalities and their application to control of PDEs, MARGAUx PhD Days, Poitiers, 22 - 24 May 2023.</li>
+</h3>
+<div class="talks">
+  <ol>
+      <li>Quantitative 2D propagation of smallness and spectral estimates for Schrödinger operators, Second Analysis Mathematica Conference, Budapest, 29 July-02 August, 2024. </li>
+      <li> Spectral inequalities and their application to control of PDEs, MARGAUx PhD Days, Poitiers, 22 - 24 May 2023.</li>
+  </ol>
 </div>
 
-<h2 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="font-weight-bold">
   Seminars
-</h2>
-<div>
+</h3>
+<div class="talks">
+  <ol>
     <li> 1D spectral estimates and quantitative propagation of smallness in the plane, Groupe de Travail Analyse, Institut de Mathématiques de Bordeaux, 14 October, 2024.</li>
+  </ol>
 </div>
 
-<h2 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="font-weight-bold">
   Conferences attended
-</h2>
-<div>
+</h3>
+<div class="talks">
+  <ol>
     <li>2nd Analysis Mathematica Conference Rényi Institute, Budapest, Hungary 29 July - 02 August, 2024. (<b> Contributed talk</b>)</li>
     <li>International Congress of Mathematical Physics (ICMP), Strasbourg, 01 - 06 July, 2024.</li>
     <li>ICMP Young Researcher Symposium (YRS), Strasbourg, 28 - 29 June, 2024.</li>
@@ -51,6 +56,7 @@ nav_order: 2
     <li>Summer school on unique continuation and applications, Castro Urdiales, Cantabria, 03 - 07 July, 2023.</li>
     <li>Real analysis and geometry, CIRM, Marseille, 12 - 16 June, 2023.</li>
     <li>MARGAUx PhD Days, Poitiers, 22 - 24 May, 2023. (<b> Short talk</b>)</li>
+  </ol>
 </div>
 
 
