@@ -26,7 +26,7 @@ I am a third year doctoral student at Institut de Mathématiques de Bordeaux in 
 <h2 style="color: inherit" class="font-weight-bold">
   Research Interests
 </h2>
- My primary research focus the analysis of partial differential equations. In particular, I study spectral inequalities for Schrödinger operators, non-harmonic trigonometric polynomials, and their applications to control theory for heat equations and the observability of dispersive equations. 
+ My primary research focuses on the analysis of partial differential equations. In particular, I study spectral inequalities for Schrödinger operators, non-harmonic trigonometric polynomials, and their applications to control theory for heat equations and the observability of dispersive equations. 
  
  I also have strong interests in microlocal and semiclassical analysis.
 
