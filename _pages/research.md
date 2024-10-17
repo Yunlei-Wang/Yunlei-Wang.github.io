@@ -23,7 +23,7 @@ nav_order: 2
 </div>
 
 
-<h3 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="talks font-weight-bold">
   Talks
 </h3>
 <div class="talks">
@@ -33,7 +33,7 @@ nav_order: 2
   </ol>
 </div>
 
-<h3 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="talks font-weight-bold">
   Seminars
 </h3>
 <div class="talks">
@@ -42,7 +42,7 @@ nav_order: 2
   </ol>
 </div>
 
-<h3 style="color: inherit" class="font-weight-bold">
+<h3 style="color: inherit" class="talks font-weight-bold">
   Conferences attended
 </h3>
 <div class="talks">
