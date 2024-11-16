@@ -38,6 +38,8 @@ nav_order: 2
 </h3>
 <div class="talks">
   <ol>
+    <li>1D spectral estimates and quantitative propagation of smallness in the plane, Oberseminar Analysis, Mathematische Physik und Dynamische Systeme, TU Dortmund, 12 November, 2024.</li>
+    <li>1D spectral estimates and quantitative propagation of smallness in the plane, APDE seminar, BCAM, Bilbao, 31 October, 2024.</li>
     <li> 1D spectral estimates and quantitative propagation of smallness in the plane, Groupe de Travail Analyse, Institut de Mathématiques de Bordeaux, 14 October, 2024.</li>
   </ol>
 </div>
@@ -59,4 +61,12 @@ nav_order: 2
   </ol>
 </div>
 
-
+<h3 style="color: inherit" class="talks font-weight-bold">
+  Research visits
+</h3>
+<div class="talks">
+  <ol>
+    <li>Central South University (CSU), Changsha, Hunan, China, 27 December - TBD.</li>
+    <li>Universidad del País Vasco (UPV/EHU), Bilbao, Spain, 24 October - 20 December, 2024.</li>
+  </ol>
+</div>
