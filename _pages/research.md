@@ -24,23 +24,24 @@ nav_order: 2
 
 
 <h3 style="color: inherit" class="talks font-weight-bold">
-  Talks
+  Conference talks
 </h3>
 <div class="talks">
   <ol>
-      <li>Quantitative 2D propagation of smallness and spectral estimates for Schrödinger operators, Second Analysis Mathematica Conference, Budapest, 29 July-02 August, 2024. </li>
-      <li> Spectral inequalities and their application to control of PDEs, MARGAUx PhD Days, Poitiers, 22 - 24 May 2023.</li>
+      <li>Quantitative 2D propagation of smallness and spectral estimates for Schrödinger operators, Second Analysis Mathematica Conference, Budapest, Hungary, 29 July - 02 August, 2024. </li>
+      <li> Spectral inequalities and their application to control of PDEs, MARGAUx PhD Days, Poitiers, France, 22 - 24 May 2023.</li>
   </ol>
 </div>
 
 <h3 style="color: inherit" class="talks font-weight-bold">
-  Seminars
+  Seminar talks
 </h3>
 <div class="talks">
   <ol>
-    <li>1D spectral estimates and quantitative propagation of smallness in the plane, Oberseminar Analysis, Mathematische Physik und Dynamische Systeme, TU Dortmund, 12 November, 2024.</li>
-    <li>1D spectral estimates and quantitative propagation of smallness in the plane, APDE seminar, BCAM, Bilbao, 31 October, 2024.</li>
-    <li> 1D spectral estimates and quantitative propagation of smallness in the plane, Groupe de Travail Analyse, Institut de Mathématiques de Bordeaux, 14 October, 2024.</li>
+    <li>1D spectral estimates and quantitative propagation of smallness in the plane, Central South University (CSU), Changsha, Hunan, China, 2 January, 2025.</li>
+    <li>1D spectral estimates and quantitative propagation of smallness in the plane, Oberseminar Analysis, Mathematische Physik und Dynamische Systeme, TU Dortmund, Germany, 12 November, 2024.</li>
+    <li>1D spectral estimates and quantitative propagation of smallness in the plane, APDE seminar, BCAM, Bilbao, Spain, 31 October, 2024.</li>
+    <li> 1D spectral estimates and quantitative propagation of smallness in the plane, Groupe de Travail Analyse, Institut de Mathématiques de Bordeaux, France, 14 October, 2024.</li>
   </ol>
 </div>
 
@@ -66,7 +67,7 @@ nav_order: 2
 </h3>
 <div class="talks">
   <ol>
-    <li>Central South University (CSU), Changsha, Hunan, China, 27 December - TBD.</li>
+    <li>Central South University (CSU), Changsha, Hunan, China, 27 December - 1 January, 2025.</li>
     <li>Universidad del País Vasco (UPV/EHU), Bilbao, Spain, 24 October - 20 December, 2024.</li>
   </ol>
 </div>
