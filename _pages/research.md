@@ -28,6 +28,7 @@ nav_order: 2
 </h3>
 <div class="talks">
   <ol>
+      <li>Spectral inequalities for Schrödinger operators on the real line and on the lattice, Analyse et contrôle, Première réunion de l'ANR CHAT, Paris, France, 26 March 2025.</li>
       <li>Quantitative 2D propagation of smallness and spectral estimates for Schrödinger operators, Second Analysis Mathematica Conference, Budapest, Hungary, 29 July - 02 August, 2024. </li>
       <li> Spectral inequalities and their application to control of PDEs, MARGAUx PhD Days, Poitiers, France, 22 - 24 May 2023.</li>
   </ol>
