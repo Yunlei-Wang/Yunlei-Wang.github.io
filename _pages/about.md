@@ -39,7 +39,10 @@ Address
 143 Lockett Hall<br>
 Baton Rouge, LA 70803, USA
 </div>
-<div>Email: yunlei.wang[at]math.u-bordeaux.fr</div>
+<div>
+<span>Email: </span>
+<code style="font-family: monospace; background: none;">y+[lastname]+30+[at]+lsu+[dot]+edu</code>
+</div>
 
 
 
