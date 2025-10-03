@@ -41,7 +41,7 @@ Baton Rouge, LA 70803, USA
 </div>
 <div>
 <span>Email: </span>
-<code style="font-family: monospace; background: none;">firstname.lastname[at]+lsu+[dot]+edu</code>
+<code style="font-family: monospace; background: none;">firstname.lastname+[at]+lsu.edu</code>
 </div>
 
 
