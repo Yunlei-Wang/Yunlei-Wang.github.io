@@ -1332,3 +1332,12 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+.periodical {
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  word-wrap: break-word;
+  /* This ensures the journal name wraps cleanly to the next line */
+  display: inline-block; 
+  width: 100%;
+}
