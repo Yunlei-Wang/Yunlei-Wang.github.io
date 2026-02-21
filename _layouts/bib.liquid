@@ -82,10 +82,10 @@
           {%- if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif -%}
         {% endif %}
         {%- if author_is_self -%}
-          <em>
+          <strong>
             {{- author.first }}
             {{ author_last_html -}}
-          </em>
+          </strong>
         {%- else -%}
           {%- if coauthor_url -%}
             <span href="{{ coauthor_url }}">
@@ -97,6 +97,7 @@
             {{ author_last_html -}}
           {% endif %}
         {%- endif -%}
+        {%- if forloop.last and author_array_limit == author_array_size -%}{{- ", " -}}{%- endif -%}
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
@@ -148,7 +149,7 @@
       {%- assign proceedings = 'inproceedings,incollection' | split: ',' -%}
       {%- assign thesis = 'thesis,mastersthesis,phdthesis' | split: ',' -%}
       {%- if entry.type == 'article' -%}
-        {%- capture entrytype %}<em style="font-style: normal; font-size: smaller">{{ entry.journal }}</em>{% endcapture %}
+        {%- capture entrytype -%} <em style="font-style: italic">{{ entry.journal }}</em>{%- endcapture -%}
       {%- elsif proceedings contains entry.type -%}
         {%-capture entrytype-%}<em>In {{ entry.booktitle }}</em>{%- endcapture -%}
       {%- elsif thesis contains entry.type -%}
@@ -174,13 +175,9 @@
       {%-endif-%}
       {%-assign entrytype_text = entrytype | strip_html | strip-%}
       {%-capture periodical-%}{{ entrytype }}{%-if entrytype_text != "" and entryyear != ""-%}, {%-endif-%}{{ entrymonth }}{{ entryyear }}{%-endcapture-%}
-      <span class="periodical">
-        {{ periodical | strip }}
-      </span>
+      <span class="periodical">{{ periodical | strip }}</span>
       {%-comment-%}
-      <span class="periodical">
-        {{ entry.note | strip }}
-      </span>
+      <span class="periodical">{{ entry.note | strip }}</span>
       {%-endcomment-%}
     
 

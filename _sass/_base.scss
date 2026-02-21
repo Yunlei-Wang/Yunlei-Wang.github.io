@@ -1338,6 +1338,8 @@ ninja-keys::part(ninja-input-wrapper) {
   -webkit-hyphens: auto;
   word-wrap: break-word;
   /* This ensures the journal name wraps cleanly to the next line */
-  display: inline-block; 
-  width: 100%;
+  /*display: inline-block; */
+  display:inline;
+  width: auto;
+  /*width: 100%;*/
 }
